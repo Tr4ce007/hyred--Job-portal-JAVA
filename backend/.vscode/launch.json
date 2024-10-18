@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HyredApplication<hyred>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hyred.hyred.HyredApplication",
+            "projectName": "hyred",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
